@@ -20,16 +20,5 @@ const invokeAction = async ({ action, id, ...data }) => {
   }
 };
 
-// invokeAction({action:"list"});
-// invokeAction({action: "get", id: "qdggE76Jtbfd9eWJHrssH"})
-
-// invokeAction({
-//   action: "add",
-//   name: "Alica",
-//   phone: "(233) 738-2647",
-//   email: "pharetra.ut@dictum.co.uk",
-// // });
-// invokeAction({action: "remove", id: "HuD1f9ccfCcFbSNSVVroL"})
-
 const {argv} = yargs(process.argv.slice(2));
 invokeAction(argv)

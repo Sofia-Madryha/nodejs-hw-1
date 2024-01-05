@@ -54,17 +54,15 @@
   "phone": "(748) 206-2688"
  },
  {
-  "id": "fntCW4L8oo7hmD5PjTO0q",
-  "name": "Alica",
-  "phone": "(233) 738-2647",
-  "email": "pharetra.ut@dictum.co.uk"
- },
- {
-  "id": "X4iIhAY7MKZeFNb_0TR0l",
-  "_": [],
+  "id": "LsoF8TJQ-91NxiDLxPqr8",
   "name": "Mango",
   "email": "mango@gmail.com",
-  "phone": "322-22-22",
-  "$0": "index.js"
+  "phone": "322-22-22"
+ },
+ {
+  "id": "jQRtn8Pgoeg6_ZGvdV1WQ",
+  "name": "Mango",
+  "email": "mango@gmail.com",
+  "phone": "322-22-22"
  }
 ]
